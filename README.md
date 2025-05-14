@@ -21,7 +21,7 @@
 &emsp;(4) 메타 정보 : 이미지명, 클래스명, BBox 좌표 등
 ![image](https://github.com/user-attachments/assets/6922152b-3911-4cb5-b829-585aaffb3bd3)
 
-**다)** 문제점<br>
+다) 문제점<br>
 &emsp;(1) 용량 및 데이터 수가 너무 많아 학습 시간이 매우 오래걸림<br>
 
 &emsp;(2) 같은 클래스명 파일이 여러개 존재 (이미지 파일은 겹침 X)<br>
