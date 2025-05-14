@@ -89,7 +89,8 @@
 ![image](https://github.com/user-attachments/assets/e1f1c279-152b-43cb-beb8-866b2d279d09)
 
 - 학습 전후 모델 성능 비교표
-![image](https://github.com/user-attachments/assets/7827b443-7a50-434d-9424-380ce7d20036)
+![image](https://github.com/user-attachments/assets/b7b4f710-5d41-46f6-b716-ef92944850e7)
+
 
 2) 최종 모델(챗봇) 평가
 ![image](https://github.com/user-attachments/assets/65eb5d61-7af2-4130-8386-aca7d3482e1e)
