@@ -27,6 +27,7 @@
 ![image](https://github.com/user-attachments/assets/6922152b-3911-4cb5-b829-585aaffb3bd3)
 
   다) 문제점
+  
 		(1) 용량 및 데이터 수가 너무 많아 학습 시간이 매우 오래걸림
     
 		(2) 같은 클래스명 파일이 여러개 존재 (이미지 파일은 겹침 X)
