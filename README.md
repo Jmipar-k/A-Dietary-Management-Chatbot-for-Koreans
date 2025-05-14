@@ -23,9 +23,13 @@
 
 **다)** 문제점<br>
 &emsp;(1) 용량 및 데이터 수가 너무 많아 학습 시간이 매우 오래걸림<br>
+
 &emsp;(2) 같은 클래스명 파일이 여러개 존재 (이미지 파일은 겹침 X)<br>
+
 &emsp;(3) 클래스명이 한글발음표기법 영어로 이루어져 직접 활용이 어려움<br>
+
 &emsp;(4) 클래스 간 데이터 수가 불균형함<br>
+
 &emsp;(5) 각 이미지의 해상도가 너무 크고, 불규칙적임<br>
 ![image](https://github.com/user-attachments/assets/b5102f55-3537-4d38-85ca-471a25803919)
 
@@ -40,13 +44,13 @@
       		
 &emsp;&emsp;(다) 데이터 통계를 정제(이상치, 결측치) 후 일관성을 위해 소문자 변환 적용<br>
 ![image](https://github.com/user-attachments/assets/e03af950-fd08-4bfa-8a70-7e8137284dff)
-    	(3) 영어 클래스로 된 폴더 생성 및 대응되는 데이터를 이동 (JSON 파일 폐기)
+&emsp;(3) 영어 클래스로 된 폴더 생성 및 대응되는 데이터를 이동 (JSON 파일 폐기)<br>
     
-    	(4) Train set 기준 5000장 이상의 클래스 데이터 선별 
+&emsp;(4) Train set 기준 5000장 이상의 클래스 데이터 선별 <br>
     
-    	(5) 선별된 255개의 클래스에 대하여 undersampling 기법 적용
+&emsp;(5) 선별된 255개의 클래스에 대하여 undersampling 기법 적용<br>
     
-    	(6) 이미지 해상도를 224x224로 resize하여 저장 (Dataloader 단계 최적화)
+&emsp;(6) 이미지 해상도를 224x224로 resize하여 저장 (Dataloader 단계 최적화)<br>
 ![image](https://github.com/user-attachments/assets/ad97af32-8235-4fdb-87a4-431c81c7065f)
 
 2) Glycemic Index(GI) Value 데이터 전처리 (출처 : 한국영양학회지)
