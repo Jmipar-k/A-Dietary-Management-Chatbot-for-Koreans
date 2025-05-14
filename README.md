@@ -62,7 +62,7 @@
 
 2) Glycemic Index(GI) Value 데이터 전처리 (출처 : 한국영양학회지)
    
-&emsp;가) “한국인 상용 식품의 혈당지수 (Glycemic Index) 추정치를 활용한 한국 성인의         식사혈당지수 산출” 논문의 appendix 발췌
+&emsp;가) “한국인 상용 식품의 혈당지수 (Glycemic Index) 추정치를 활용한 한국 성인의 식사혈당지수 산출” 논문의 appendix 발췌
 
 &emsp;나) 중요성이 떨어지는 데이터 제거
 
